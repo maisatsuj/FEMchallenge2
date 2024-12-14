@@ -6,6 +6,7 @@ body{
     font-family: Inter;
     background-color: hsl(0, 0%, 8%);
     flex-direction: column;
+    height:100vh;
 }
 
 .container{
